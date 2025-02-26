@@ -136,4 +136,8 @@ The simplest algorithm to implement is one that steps one pixel in the direction
 Need to check before fill for invalid chars in case a sentinel char is entered.
 Or use `\xFF` as sentinel
 
+## Resources
+
 [Collisions - Slack](https://42born2code.slack.com/archives/CMX2R5JSW/p1713782362848349)
+[LodeV - Raycasting](https://lodev.org/cgtutor/raycasting.html)
+[Reactive - Raycasting](https://reactive.so/post/42-a-comprehensive-guide-to-cub3d/)
